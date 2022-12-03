@@ -369,7 +369,7 @@ $x_1 = \frac{-b\pm\sqrt{b^2 - 4ac}}{2a}$
 
 ![image-20221203202915656](Typora用法1.0.assets/image-20221203202915656.png)
 
-$J_\alpha (x) = \sum_{m=0}^{\infin} \frac{(-1)^m}{m!\Gamma(m+\alpha+1)} (\frac{x}{2})^{2m+\alpha}$
+$J_\alpha (x) = \sum_{m=0}^{\infine} \frac{(-1)^m}{m!\Gamma(m+\alpha+1)} (\frac{x}{2})^{2m+\alpha}$
 
 例3：
 
