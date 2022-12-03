@@ -233,7 +233,7 @@ https://www.baidu.com/
   1. 创建方式：<center> +文字
   2. 例：
 
-  <center>文字居中
+  <center>文字居中<\center>
 
 - 清除格式
 
