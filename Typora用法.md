@@ -162,8 +162,7 @@ public class HelloWorld{
 * **语法**：英文状态下输入！[name] （链接）
 * **快捷键**：Ctr l+Shift+I
 * **上传图片**：路过图床，上传图片
-
-![R-C](Typora用法1.0.assets/R-C.jpg)
+![]()
 
 ---
 
@@ -361,18 +360,12 @@ $\Delta$软件设置：文件菜单，偏好设置，Markdown，勾选【Markdow
 
 例1：
 
-![image-20221203202619222](Typora用法1.0.assets/image-20221203202619222.png)
-
 $x_1 = \frac{-b\pm\sqrt{b^2 - 4ac}}{2a}$
 
 例2：
 
-![image-20221203202915656](Typora用法1.0.assets/image-20221203202915656.png)
-
 $J_\alpha (x) = \sum_{m=0}^{\infin} \frac{(-1)^m}{m!\Gamma(m+\alpha+1)} (\frac{x}{2})^{2m+\alpha}$
 
 例3：
-
-![image-20221203203347045](Typora用法1.0.assets/image-20221203203347045.png)
 
 $\int\int_D f(x,y)dxdy = \int_a^b [\int_{\varphi_1(x)}^{\varphi_2(x)} f(x,y)dy]dx$
