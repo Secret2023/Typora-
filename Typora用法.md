@@ -283,7 +283,7 @@ $\Delta$软件设置：文件菜单，偏好设置，Markdown，勾选【Markdow
 |   \frac   | 分式 |    \frac{a}{b}    |    $\frac{a}{b}$    |
 |   \sqrt   | 根式 |     \sqrt{x}      |     $\sqrt{x}$      |
 |   \vec    | 向量 |      \vec{A}      |      $\vec{A}$      |
-|   \lim    | 极限 | \lim{n\to+\infin} | $\lim{n\to+\infin}$ |
+|   \lim    | 极限 | \lim{n\to+\infin} | $\lim{n\to+\infinity}$ |
 |   \int    | 积分 |  \int_0^nf(x)dx   |  $\int_0^nf(x)dx$   |
 | \overline | 均值 |   \overline{x}    |   $\overline{x}$    |
 |   \quad   | 空格 |     A\quad B      |     $A\quad B$      |
@@ -364,7 +364,7 @@ $x_1 = \frac{-b\pm\sqrt{b^2 - 4ac}}{2a}$
 
 例2：
 
-$J_\alpha (x) = \sum_{m=0}^{\infin} \frac{(-1)^m}{m!\Gamma(m+\alpha+1)} (\frac{x}{2})^{2m+\alpha}$
+$J_\alpha (x) = \sum_{m=0}^{\infinity} \frac{(-1)^m}{m!\Gamma(m+\alpha+1)} (\frac{x}{2})^{2m+\alpha}$
 
 例3：
 
