@@ -327,30 +327,30 @@ $\Delta$软件设置：文件菜单，偏好设置，Markdown，勾选【Markdow
 
 |    大写    |     语法      |     小写      |    语法     |
 | :--------: | :-----------: | :-----------: | :---------: |
-|  $\Alpha$  |  A or \Alpha  |   $\alpha$    |   \alpha    |
-|  $\Beta$   |  B or \Beta   |    $\beta$    |    \beta    |
+|     $A$    |  A or \Alpha  |   $\alpha$    |   \alpha    |
+|     $B$    |  B or \Beta   |    $\beta$    |    \beta    |
 |  $\Gamma$  |    \Gamma     |   $\gamma$    |   \gamma    |
 |  $\Delta$  |    \Delta     |   $\delta$    |   \delta    |
-| $\Epsilon$ | E or \Epsilon |  $\epsilon$   |  \epsilon   |
+|     $E$    | E or \Epsilon |  $\epsilon$   |  \epsilon   |
 |            |               | $\varepsilon$ | \varepsilon |
-|  $\Zeta$   |  Z or \Zeta   |    $\zeta$    |    \zeta    |
-|   $\Eta$   |   H or \Eta   |    $\eta$     |    \eta     |
+|     $Z$    |  Z or \Zeta   |    $\zeta$    |    \zeta    |
+|     $H$    |   H or \Eta   |    $\eta$     |    \eta     |
 |  $\Theta$  |    \Theta     |   $\theta$    |   \theta    |
-|  $\Iota$   |  I or \Iota   |    $\iota$    |    \iota    |
-|  $\Kappa$  |  K or \Kappa  |   $\kappa$    |   \kappa    |
+|     $I$    |  I or \Iota   |    $\iota$    |    \iota    |
+|     $K$    |  K or \Kappa  |   $\kappa$    |   \kappa    |
 | $\Lambda$  |    \Lambda    |   $\lambda$   |   \lambda   |
-|   $\Mu$    |   M or \Mu    |     $\mu$     |     \mu     |
-|   $\Nu$    |   N or \Nu    |     $\nu$     |     \nu     |
+|     $M$    |   M or \Mu    |     $\mu$     |     \mu     |
+|     $N$    |   N or \Nu    |     $\nu$     |     \nu     |
 |   $\Xi$    |      \Xi      |     $\xi$     |     \xi     |
-| $\Omicron$ | O or \Omicron |  $\omicron$   |  \omicron   |
+|     $O$    | O or \Omicron |  $\omicron$   |  \omicron   |
 |   $\Pi$    |      \Pi      |     $\pi$     |     \pi     |
-|   $\Rho$   |   P or \Rho   |    $\rho$     |    \rho     |
+|     $P$    |   P or \Rho   |    $\rho$     |    \rho     |
 |  $\Sigma$  |    \Sigma     |   $\sigma$    |   \sigma    |
-|   $\Tau$   |   T or \Tau   |    $\tau$     |    \tau     |
-| $\Upsilon$ | Y or \Upsilon |  $\upsilon$   |  \upsilon   |
+|     $T$    |   T or \Tau   |    $\tau$     |    \tau     |
+|     $Y$    | Y or \Upsilon |  $\upsilon$   |  \upsilon   |
 |   $\Phi$   |     \Phi      |    $\phi$     |    \phi     |
 |            |               |   $\varphi$   |   \varphi   |
-|   $\Chi$   |   X or \Chi   |    $\chi$     |    \chi     |
+|     $X$    |   X or \Chi   |    $\chi$     |    \chi     |
 |   $\Psi$   |     \Psi      |    $\psi$     |    \psi     |
 |  $\Omega$  |    \Omega     |   $\omega$    |   \omega    |
 
